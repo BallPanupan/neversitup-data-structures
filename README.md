@@ -1,10 +1,10 @@
 # neversitup-data-structures
 ```bash
 Project
- -	javascript
-  -	manipulate.js
-  -	odd-number.js
-  -	smily.js
+-	javascript
+	-	manipulate.js
+	-	odd-number.js
+	-	smily.js
 ```
 
 ## You can Import this function to run.
